@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 ,tvg-logo= "https://images.app.goo.gl/XASqJ9wdi898eoT47" The Outdoor Channel 
+#EXTINF:-1 ,tvg-logo= The Outdoor Channel 
 
 http://my.streamerstv.com:25461/snyder/snyder/134
 
 
-#EXTINF:-1 ,tvg-logo= "https://images.app.goo.gl/Fbft6Xtv1SSftkoN6" Sportsman Channel
+#EXTINF:-1 ,tvg-logo= Sportsman Channel
 
 http://my.streamerstv.com:25461/snyder/snyder/289
 
-#EXTINF:-1 ,tvg-logo= "https://images.app.goo.gl/mqvomMCd2aFKqLdm7" World Fishing Network
+#EXTINF:-1 ,tvg-logo= World Fishing Network
 
 http://my.streamerstv.com:25461/snyder/snyder/306
