@@ -1,14 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 ,tvg-logo= The Outdoor Channel 
+#EXTINF:-1 ,The Outdoor Channel HD
 
-http://my.streamerstv.com:25461/snyder/snyder/134
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/75275
 
+#EXTINF:-1 ,The Outdoor Channel
 
-#EXTINF:-1 ,tvg-logo= Sportsman Channel
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/79698
 
-http://my.streamerstv.com:25461/snyder/snyder/289
+#EXTINF:-1 ,Sportsman Channel HD
 
-#EXTINF:-1 ,tvg-logo= World Fishing Network
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/75206
 
-http://my.streamerstv.com:25461/snyder/snyder/306
+#EXTINF:-1 ,Sportsman Channel
+
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/79670
+
+#EXTINF:-1 ,World Fishing Network
+
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/79632
