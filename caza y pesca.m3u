@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 , The Outdoor Channel US
+#EXTINF:-1 , The Outdoor Channel US 
+tvg-id=”https://www.outdoorchannel.com/schedule/77421”
 
 http://pro2.premium-tv.org:8789/live/mdiouf257/diouf3446/121969.ts
 
