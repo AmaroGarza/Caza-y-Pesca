@@ -12,6 +12,10 @@ http://pro2.premium-tv.org:8789/live/mdiouf257/diouf3446/121971.ts
 
 http://pro2.premium-tv.org:8789/live/mdiouf257/diouf3446/121973.ts
 
+#EXTINF:-1 , Pursuit Channel 2
+
+http://king-tv.net:8080/live/captinunleashed87/FbCHwqmi9z/117250.ts
+
 #EXTINF:-1 , Pursuit Channel
 
 http://pro2.premium-tv.org:8789/live/mdiouf257/diouf3446/121970.ts
@@ -22,4 +26,5 @@ http://pro2.premium-tv.org:8789/live/mdiouf257/diouf3446/23107.ts
 
 #EXTINF:-1 , Wild TV CA
 
-http://connect.ottplus.biz:8000/live/41496302878653/41130289304063/80581.ts
+http://king-tv.net:8080/live/captinunleashed87/FbCHwqmi9z/150761.ts
+
