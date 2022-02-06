@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="outdoorchannel.us" tvg-name="US | OUTDOOR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png" group-title="ⓣⓥ || U.S.A",US | OUTDOOR CHANNEL
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/121969
-#EXTINF:-1 tvg-ID="pursuitchannel.us" tvg-name="US | PURSUIT CHANNEL" tvg-logo="https://logo-iptvpro.com/LOGO/USA/pursuit_channel_us.png" group-title="ⓣⓥ || U.S.A",US | PURSUIT CHANNEL
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/121970
-#EXTINF:-1 tvg-ID="sportsmanchannel.us" tvg-name="US | SPORTSMAN CHANNEL" tvg-logo="https://logo-iptvpro.com/LOGO/USA/spmnhd_m.png" group-title="ⓣⓥ || U.S.A",US | SPORTSMAN CHANNEL
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/121971
-#EXTINF:-1 tvg-ID="Caza y Pesca ES" tvg-name="ES | CAZA Y PESCA FHD" tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_772B_416_1_C00000_0_0_0.png" group-title="ⓣⓥ || ESPAGNE",ES | CAZA Y PESCA FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/23107
-#EXTINF:-1 tvg-ID="" tvg-name="BG | Wild TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/165px-Flag_of_Bulgaria.svg.png" group-title="ⓣⓥ || BULGARIA",BG | Wild TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/120750
-#EXTINF:-1 tvg-ID="" tvg-name="US | WORLD FISHING NETWORK" tvg-logo="https://logo-iptvpro.com/LOGO/USA/wfn_m.png" group-title="ⓣⓥ || U.S.A",US | WORLD FISHING NETWORK
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/121973
-#EXTINF:-1 tvg-id="" tvg-name="Wild TV CA" tvg-logo="https://en.wikipedia.org/wiki/File:Wild_TV_logo_2020.png" group-title="Canada",Wild TV CA
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/45380
+
 #EXTINF:-1 tvg-ID="outdoorchannel.us" tvg-name="US | OUTDOOR CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png" group-title="ⓣⓥ || U.S.A",US | OUTDOOR CHANNEL
 http://mat4k.com:8080//live/4629954474095522/4629954474095522/228796
