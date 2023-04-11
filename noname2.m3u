@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1, Outdoor Channel HD
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/904|user-agent=R3dHard3.1XzY
+#EXTINF:-1, The Sportsman Channel HD
+http://208.88.246.11:3473/9483SPMAN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1, WFS World Fishing Network 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/903|user-agent=R3dHard3.1XzY
+
+#EXTINF:-1, NBC Universo 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/606|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HITN 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/376|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery Velocity
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/401|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HGTV
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/699|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Natgeo Mundo 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/597|user-agent=R3dHard3.1XzY 
+#EXTINF:-1, Discovery Familia
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/56|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery Turbo
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/76|user-agent=R3dHard3.1XzY
+
+#EXTINF:-1  ABC
+http://208.88.246.11:3473/encoder81/evento15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1, Cooking Channel 
+http://208.88.246.11:3473/9447COOK/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1, Discovery Theater HD 
+http://208.88.246.11:3473/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="Lista 26", Discovery World HD 
+http://208.88.246.11:3473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1, Motor Trend 
+http://208.88.246.11:3473/transco10/4697VLCTY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12
+
+
+#EXTINF:-1, Discovery Familia
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/56|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery Turbo
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/76|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery Channel MX
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/92|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery World
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/164|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery Theater HD
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/166|user-agent=R3dHard3.1XzY
+#EXTINF:-1, Discovery Channel
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/608|user-agent=R3dHard3.1XzY
+
+#EXTINF:-1, HGTV USA
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/51|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HGTV
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/699|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HBO
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/167|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HBO 2
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/168|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HBO Family
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/169|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HBO PLUS
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/170|user-agent=R3dHard3.1XzY
+#EXTINF:-1, HBO Signature
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/171|user-agent=R3dHard3.1XzY
+#EXTINF:-1, NatGeo Wild
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/172|user-agent=R3dHard3.1XzY
+
+#EXTINF:-1, Animal Planet
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/174|user-agent=R3dHard3.1XzY
+
+#EXTINF:-1, Animal Planet
+#EXTINF:-1, Natgeo Mundo 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/597|user-agent=R3dHard3.1XzY 
+#EXTINF:-1, HBO 2 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/465|user-agent=R3dHard3.1XzY 
+#EXTINF:-1, HBO Family 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/466|user-agent=R3dHard3.1XzY 
+#EXTINF:-1, HBO 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/8|user-agent=R3dHard3.1XzY 
+#EXTINF:-1, Dreamworks 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/707|user-agent=R3dHard3.1XzY
+
