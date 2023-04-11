@@ -26,10 +26,6 @@ http://208.88.246.11:3473/encoder81/evento15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1, Cooking Channel 
 http://208.88.246.11:3473/9447COOK/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 
-
-#EXTINF:-1, tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="Lista 26", Discovery World1 HD 
-http://208.88.246.11:3473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
 #EXTINF:-1, Motor Trend 
 http://208.88.246.11:3473/transco10/4697VLCTY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12
 
