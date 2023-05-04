@@ -10,8 +10,6 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", Animal Planet
 http://45.166.92.22:58001/play/a00m/index.m3u8
 
-#EXTINF:-1 group-title="Lista 21 Honduras", Cartoonito
-http://45.166.92.22:58001/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
@@ -36,8 +34,10 @@ http://45.166.92.22:58001/play/a04q/index.m3u8
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/5D5293/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY TURBO
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/4C1E9C/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
 EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY CHANNEL
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/55AB2F/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
 #EXTINF:-1 group-title="Lista 21 Honduras", Discovery Home & Health
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/5679A5/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 
