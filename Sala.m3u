@@ -27,8 +27,6 @@ http://191.98.171.198:4000/play/a01g/index.m3u8
 http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", DISCOVERY THEATER HD
 http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", DISNEY
-http://45.166.92.22:58001/play/a04q/index.m3u8
 
 #EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY THEATER HD
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/5D5293/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
@@ -61,8 +59,7 @@ http://45.166.92.22:58001/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", ESPN
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
-#EXTINF:-1 group-title="Lista 21 Honduras", Europa
-http://45.166.92.22:58001/play/a00t/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Lista 21 Honduras", FOX SPORTS 3 HD
@@ -71,12 +68,10 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", SONY MOVIES
 http://45.166.92.22:58001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", Film & Arts
-http://45.166.92.22:58001/play/a00o/index.m3u8
+
 #EXTINF:-1 group-title="Lista 21 Honduras", Fox Sports
 http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", France 24
-http://45.166.92.22:58001/play/a057/index.m3u8
+
 
 #EXTINF:-1 group-title="Lista 21 Honduras", HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
