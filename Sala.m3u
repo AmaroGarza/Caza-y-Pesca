@@ -115,12 +115,12 @@ http://45.166.92.22:58001/play/a01m/index.m3u8
 http://45.166.92.22:58001/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", Telemundo
 http://45.166.92.22:58001/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", TyCSports
+#EXTINF:-1 group-title="Lista 21 Honduras", TyC Sports
 http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", Universal cinema
+#EXTINF:-1 group-title="Lista 21 Honduras", Universal TV
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", Univision
 http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", WARNER Channel
+#EXTINF:-1 group-title="Lista 21 Honduras", WARNER TV
 http://45.166.92.22:58001/play/a049/index.m3u8
 </body></html>
