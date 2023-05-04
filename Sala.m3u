@@ -76,6 +76,8 @@ http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", HISTORY 2
 http://45.166.92.22:58001/play/a04x/index.m3u8
 
+#EXTINF:-1 group-title="Otros Canales", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
 #EXTINF:-1 group-title="Lista 21 Honduras", History
@@ -123,4 +125,7 @@ http://45.166.92.22:58001/play/a01t/index.m3u8
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", WARNER TV
 http://45.166.92.22:58001/play/a049/index.m3u8
+
+
+
 </body></html>
