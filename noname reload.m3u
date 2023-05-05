@@ -1,0 +1,247 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Lista 21 Honduras", A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", AMC
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", AXN
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Animal Planet
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", ANIMAL PLANET
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/F9128F/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 id=""  group-title="Lista 8", CARTOON NETWORK
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/F6100A/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 id=""  group-title="Lista 8", CINECANAL
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/EA63EC/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", CINEMAX
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/B24604/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", CLARO SPORTS
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/49741E/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Lista 21 Honduras", DHE HD
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", DHE
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/2E286F/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 group-title="Lista 21 Honduras", DISNEY
+http://45.166.92.22:58001/play/a04q/index.m3u8
+
+
+#EXTINF:-1 group-title="Lista 10 Colombia", Discovery Channel Colombia 
+http://181.78.24.187:8006/play/a089/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Channel Honduras
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY CHANNEL
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/55AB2F/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Home & Health
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/5679A5/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY SCIENCE
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/935287/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY THEATER HD
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/5D5293/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY TURBO
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/4C1E9C/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+
+
+#EXTINF:-1 id=""  group-title="Lista 8", EL GOURMET
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/30FB0C/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="Lista 21 Honduras", ESPN 2
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", ESPN 3
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", ESPN
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", FOOD NETWORKS
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/8D916B/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 group-title="Lista 21 Honduras", Europa
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", ISAT 
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/3B5529/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", GOLDEN EDGE
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/540608/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", GOLDEN
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/68FAF7/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", GOLDEN PLUS
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/DCF646/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", EL GOURMET
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/30FB0C/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", HISTORY 2
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/6480E8/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", HISTORY
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/1F7BAB/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", FOX SPORTS 2
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/A0BB38/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", FOX SPORTS 3
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/1F63CD/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", FOX SPORTS
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/DBB0A0/index.m3u8 |user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", FUEL TV
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/312859/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", FX
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/D57033/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", GARAGE TV
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/E05A64/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", ESPN
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/8ABABD/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 group-title="Lista 21 Honduras", FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", FX
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", SONY MOVIES
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Film & Arts
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Fox Sports
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", France 24
+http://45.166.92.22:58001/play/a057/index.m3u8
+
+#EXTINF:-1 group-title="Lista 21 Honduras", HBO
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", HBO Plus
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", HBO 2
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", HISTORY 2
+http://45.166.92.22:58001/play/a04x/index.m3u8
+
+#EXTINF:-1 group-title="Otros Canales", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
+#EXTINF:-1 group-title="Lista 21 Honduras", History
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery H & H
+http://45.166.92.22:58001/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="Lista 21 Honduras", National Geographic
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/89297B/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 group-title="Lista 21 Honduras", Paramount Network
+http://45.166.92.22:58001/play/a01l/index.m3u8
+
+
+#EXTINF:-1 group-title="Lista 21 Honduras", SONY Channel
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", SPACE
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", STAR CHANNEL
+http://45.166.92.22:58001/play/a048/index.m3u8
+
+#EXTINF:-1 group-title="Lista 21 Honduras", Star TVE
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Studio Universal
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", TELEMUNDO
+http://45.166.92.22:58001/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", TNT 
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/6614E0/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 id=""  group-title="Lista 8", TNT SERIES 
+http://209.126.119.148:20102/freemxhd/FPTnopuJX/AD3097/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", TVE Internacional
+http://191.98.171.198:4000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Telemundo
+http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", TyC Sports
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Universal TV
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", Univision
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Lista 21 Honduras", WARNER TV
+http://45.166.92.22:58001/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png"  group-title="CONOCIMIENTO", Discovery En Español
+http://208.88.246.11:3473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 group-title="Lista 13", Discovery Channel Chile 1
+http://bgtv.site/play/13-500.php?c=514&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", Discovery Channel HD Chile 2
+http://bgtv.site/play/13-500.php?c=515&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", Discovery Channel HD Chile 3
+http://bgtv.site/play/13-500.php?c=518&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO
+http://bgtv.site/play/13-500.php?c=625&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO 2
+http://bgtv.site/play/13-500.php?c=629&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO Family 
+http://bgtv.site/play/13-500.php?c=636&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO MUNDI 
+http://bgtv.site/play/13-500.php?c=658&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO Plus
+http://bgtv.site/play/13-500.php?c=640&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO POP
+http://bgtv.site/play/13-500.php?c=655&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO Signature
+http://bgtv.site/play/13-500.php?c=645&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HBO XTREME
+http://bgtv.site/play/13-500.php?c=650&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
+#EXTINF:-1 group-title="Lista 13", HGTV 
+http://bgtv.site/play/13-500.php?c=659&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
+#EXTINF:-1 group-title="Lista 13", NatGeo Mundo 
+http://bgtv.site/play/13-500.php?c=1131&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
+#EXTINF:-1 group-title="Lista 13", TUDN 
+http://bgtv.site/play/13-500.php?c=913&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
+#EXTINF:-1 group-title="Lista 18", Discovery Familia 
+http://bgtv.site/play/18-500.php?c=1132.ts&tokeen=huhgfhsuhuhuhshs|User-Agent=iD4diC8dVm5n8VJyb3FAKvDX4LYmGmTqSkWU4zNdBap2F54U9FyEirhdMZkPM8bZ3Yp5wcT49eyw6vp7G6mS9rrDbz4C7mT8D9eySTK2J97X7jERHigYUGuiguFTUGIYHGBVYU78Z347X7jajt77jajt7kw2nd2d8Tk2D7UHtrehTKVC7dXGmDz 
+#EXTINF:-1 group-title="Lista 23", Fox Sports Premium MX 
+http://bgtv.site/play/23-500.php?c=895.ts&blck|User-Agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R 
+#EXTINF:-1, Outdoor Channel HD
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/904|user-agent=R3dHard3.1XzY
+#EXTINF:-1, The Sportsman Channel HD
+http://208.88.246.11:3473/9483SPMAN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1, WFS World Fishing Network 
+http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/903|user-agent=R3dHard3.1XzY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png"  group-title="Lista 26", Fox Sports Premium
+http://208.88.246.11:3473/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 10 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71327
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 12 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71329
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 11 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71330
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 14 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71331
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 2 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71319
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 3 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71320
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 4 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71321
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 5 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71322
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 6 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71323
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 7 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71324
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 8 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71325
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 9 
+http://live.budtvlight.com:25461/Luna001/18dabf00/71326
+
+</body></html>
+
