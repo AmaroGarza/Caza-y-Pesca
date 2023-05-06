@@ -27,7 +27,7 @@ http://209.126.119.148:20102/freemxhd/FPTnopuJX/49741E/index.m3u8|user-agent=Moz
 
 
 
-#EXTINF:-1 group-title="Lista 21 Honduras", DHE HD
+#EXTINF:-1 group-title="Lista 21 Honduras", DHE
 http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 id=""  group-title="Lista 8", DHE
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/2E286F/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
@@ -35,9 +35,9 @@ http://209.126.119.148:20102/freemxhd/FPTnopuJX/2E286F/index.m3u8|user-agent=Moz
 http://45.166.92.22:58001/play/a04q/index.m3u8
 
 
-#EXTINF:-1 group-title="Lista 10 Colombia", Discovery Channel Colombia 
+#EXTINF:-1 group-title="Lista 10 Colombia", Discovery Channel 1
 http://181.78.24.187:8006/play/a089/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Channel Honduras
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Channel 2
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY CHANNEL
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/55AB2F/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
@@ -146,8 +146,7 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", STAR CHANNEL
 http://45.166.92.22:58001/play/a048/index.m3u8
 
-#EXTINF:-1 group-title="Lista 21 Honduras", Star TVE
-http://45.166.92.22:58001/play/a00x/index.m3u8
+
 #EXTINF:-1 group-title="Lista 21 Honduras", Studio Universal
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", TCM
@@ -177,11 +176,11 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png"  group-title="CONOCIMIENTO", Discovery En Español
 http://208.88.246.11:3473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 group-title="Lista 13", Discovery Channel Chile 1
+#EXTINF:-1 group-title="Lista 13", Discovery Channel 3
 http://bgtv.site/play/13-500.php?c=514&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
-#EXTINF:-1 group-title="Lista 13", Discovery Channel HD Chile 2
+#EXTINF:-1 group-title="Lista 13", Discovery Channel 4
 http://bgtv.site/play/13-500.php?c=515&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
-#EXTINF:-1 group-title="Lista 13", Discovery Channel HD Chile 3
+#EXTINF:-1 group-title="Lista 13", Discovery Channel 5
 http://bgtv.site/play/13-500.php?c=518&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
 #EXTINF:-1 group-title="Lista 13", HBO
 http://bgtv.site/play/13-500.php?c=625&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
@@ -209,14 +208,28 @@ http://bgtv.site/play/13-500.php?c=913&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8c
 http://bgtv.site/play/18-500.php?c=1132.ts&tokeen=huhgfhsuhuhuhshs|User-Agent=iD4diC8dVm5n8VJyb3FAKvDX4LYmGmTqSkWU4zNdBap2F54U9FyEirhdMZkPM8bZ3Yp5wcT49eyw6vp7G6mS9rrDbz4C7mT8D9eySTK2J97X7jERHigYUGuiguFTUGIYHGBVYU78Z347X7jajt77jajt7kw2nd2d8Tk2D7UHtrehTKVC7dXGmDz 
 #EXTINF:-1 group-title="Lista 23", Fox Sports Premium MX 
 http://bgtv.site/play/23-500.php?c=895.ts&blck|User-Agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R 
-#EXTINF:-1, Outdoor Channel HD
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/904|user-agent=R3dHard3.1XzY
-#EXTINF:-1, The Sportsman Channel HD
+#EXTINF:-1  group-title="Lista 24", OutDoor Channel
+https://bgtv.site/play/24-500.php?c=904&amp;token=black_|user-agent=Amaz0n4501p
+#EXTINF:-1, The Sportsman Channel
 http://208.88.246.11:3473/9483SPMAN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, WFS World Fishing Network 
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/903|user-agent=R3dHard3.1XzY
+#EXTINF:-1  group-title="Lista 24", WFN 
+https://bgtv.site/play/24-500.php?c=903&amp;token=black_|user-agent=Amaz0n4501p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png"  group-title="Lista 26", Fox Sports Premium
 http://208.88.246.11:3473/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="Lista 24", Velocity
+https://bgtv.site/play/24-500.php?c=401&amp;token=black_|user-agent=Amaz0n4501p
+#EXTINF:-1  group-title="Lista 24", Discovery Channels
+https://bgtv.site/play/24-500.php?c=452&amp;token=black_|user-agent=Amaz0n4501p
+#EXTINF:-1  group-title="Lista 24", Luna TV
+https://bgtv.site/play/24-500.php?c=2&amp;token=black_|user-agent=Amaz0n4501p
+#EXTINF:-1  group-title="Lista 24", MotoTrend
+https://bgtv.site/play/24-500.php?c=905&amp;token=black_|user-agent=Amaz0n4501p
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png"  group-title="ENTRETENIMIENTO", Warner | HD
+http://208.88.246.11:3473/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png"  group-title="ENTRETENIMIENTO", Warner
+http://208.88.246.11:3473/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 10 
 http://live.budtvlight.com:25461/Luna001/18dabf00/71327
@@ -243,5 +256,25 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/71325
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 9 
 http://live.budtvlight.com:25461/Luna001/18dabf00/71326
 
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic | HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png"  group-title="CONOCIMIENTO", National Geographic | HD
+http://208.88.246.11:3473/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png"  group-title="CONOCIMIENTO", National Geographic
+http://208.88.246.11:3473/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png"  group-title="USA CABLE", NatGeo Wild
+http://208.88.246.11:3473/9445NATG/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",NAT GEO Channel HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/91976
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",NAT GEO FHD (i).
+http://live.budtvlight.com:25461/Luna001/18dabf00/91978
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",NAT GEO (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/91979
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",NAT GEO. (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/91980
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Nat Geo Wild HD.
+http://live.budtvlight.com:25461/Luna001/18dabf00/91981
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Nat geo Wild Latino (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/91983
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",NatGeo Wild FHD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/91984
 </body></html>
 
