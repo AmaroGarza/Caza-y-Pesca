@@ -35,8 +35,7 @@ http://209.126.119.148:20102/freemxhd/FPTnopuJX/2E286F/index.m3u8|user-agent=Moz
 http://45.166.92.22:58001/play/a04q/index.m3u8
 
 
-#EXTINF:-1 group-title="Lista 10 Colombia", Discovery Channel 1
-http://181.78.24.187:8006/play/a089/index.m3u8
+
 #EXTINF:-1 group-title="Lista 21 Honduras", Discovery Channel 2
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY CHANNEL
@@ -178,10 +177,6 @@ http://208.88.246.11:3473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r5
 
 #EXTINF:-1 group-title="Lista 13", Discovery Channel 3
 http://bgtv.site/play/13-500.php?c=514&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
-#EXTINF:-1 group-title="Lista 13", Discovery Channel 4
-http://bgtv.site/play/13-500.php?c=515&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
-#EXTINF:-1 group-title="Lista 13", Discovery Channel 5
-http://bgtv.site/play/13-500.php?c=518&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
 #EXTINF:-1 group-title="Lista 13", HBO
 http://bgtv.site/play/13-500.php?c=625&blck|User-Agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8 
 #EXTINF:-1 group-title="Lista 13", HBO 2
@@ -218,7 +213,11 @@ https://bgtv.site/play/24-500.php?c=903&amp;token=black_|user-agent=Amaz0n4501p
 http://208.88.246.11:3473/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1  group-title="Lista 24", Velocity
 https://bgtv.site/play/24-500.php?c=401&amp;token=black_|user-agent=Amaz0n4501p
-#EXTINF:-1  group-title="Lista 24", Discovery Channels
+
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png"  group-title="CONOCIMIENTO", Discovery En Español
+http://208.88.246.11:3473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1  group-title="Lista 24", Discovery Channel USA
 https://bgtv.site/play/24-500.php?c=452&amp;token=black_|user-agent=Amaz0n4501p
 #EXTINF:-1  group-title="Lista 24", Luna TV
 https://bgtv.site/play/24-500.php?c=2&amp;token=black_|user-agent=Amaz0n4501p
@@ -228,8 +227,10 @@ https://bgtv.site/play/24-500.php?c=905&amp;token=black_|user-agent=Amaz0n4501p
 http://208.88.246.11:3473/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png"  group-title="ENTRETENIMIENTO", Warner
 http://208.88.246.11:3473/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
-
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Discovery en Espanol (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/44337
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Mvstv SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/12250
 
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",SKY Premiere 10 
 http://live.budtvlight.com:25461/Luna001/18dabf00/71327
