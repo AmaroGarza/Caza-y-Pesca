@@ -37,9 +37,9 @@ http://45.160.15.130:2909/play/024
 
 #EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL 
 http://208.88.246.11:4481/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL C
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL A
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/92.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL D
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL B
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/608.m3u8|user-agent=S11elW/2.57
 #EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16534.m3u8
@@ -48,26 +48,25 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3313.m3u8
 #EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30321.m3u8
 
-#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL G
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL A
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38488.m3u8
 #EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93947.m3u8
 #EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93948.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL J
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL B
 https://v3.playerlatino.live/stream/m3u8/22|user-agent=Lavf/57.71.101
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL K
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL B
 https://v3.playerlatino.live/stream/m3u8/741|user-agent=Lavf/57.71.101
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL L
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL C
 https://v3.playerlatino.live/stream/m3u8/639|user-agent=Lavf/57.71.101
-#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL M 
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL M no funciona
 http://45.228.234.77:4430/play/discoverychannel
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Familia 1
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/56.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Discovery Familia SD
+
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Discovery Familia
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1997.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Discovery Familia
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93806.m3u8
@@ -81,7 +80,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/44337.m3u8
 http://45.166.92.22:58001/play/a015/index.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health A
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/603.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health E
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16532.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38469.m3u8
@@ -104,7 +103,7 @@ https://v3.playerlatino.live/stream/m3u8/640|user-agent=Lavf/57.71.101
 
 #EXTINF:-1 group-title="Lista 12", HGTV 
 http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/519.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/HGTV.png" group-title="CONOCIMIENTO", HGTV 2 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/HGTV.png" group-title="CONOCIMIENTO", HGTV 
 https://v3.playerlatino.live/stream/m3u8/23|user-agent=Lavf/57.71.101
 
 
@@ -148,8 +147,7 @@ http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgd
 http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/665.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 group-title="TV5", History B
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/604.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="TV5", History Fg
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/458.m3u8|user-agent=S11elW/2.57
+
 
 
 
@@ -217,9 +215,9 @@ http://45.166.92.22:58001/play/a04o/index.m3u8
 
 #EXTINF:-1 group-title="Lista 21 Honduras", TNT
 http://208.88.246.11:4481/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Lista 21 Honduras", TNT A
+#EXTINF:-1 group-title="Lista 21 Honduras", TNT
 http://208.88.246.11:4481/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Lista 21 Honduras", TNT B
+#EXTINF:-1 group-title="Lista 21 Honduras", TNT
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1.m3u8|user-agent=S11elW/2.57
 
 #EXTINF:-1 group-title="Lista 3 Peru", TVE
@@ -232,13 +230,13 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 http://45.160.15.130:2909/play/088
 #EXTINF:-1 group-title="Lista 21 Honduras", Univision
 http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", WARNER
+#EXTINF:-1 group-title="Lista 21 Honduras", Warner Channel
 http://208.88.246.11:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="CANALES VARIADOS", Warner Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/176.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="Lista 21 Honduras", WARNER A
+#EXTINF:-1 group-title="Lista 21 Honduras", Warner Channel
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16607.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", WARNER B
+#EXTINF:-1 group-title="Lista 21 Honduras", Warner Channel
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37964.m3u8
 
 </body></html>
