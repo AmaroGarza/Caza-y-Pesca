@@ -172,19 +172,18 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/173.m3u8|user-agent=S11elW/
 #EXTINF:-1 group-title="TV5", History 2 D
 
 
-
-#EXTINF:-1 group-title="Lista 21 Honduras", Nat Geo 6
+#EXTINF:-1 group-title="Lista 21 Honduras", National Geographic 6
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/598.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="CANALES VARIADOS", Nat Geo 1
+#EXTINF:-1 group-title="CANALES VARIADOS", National Geographic 1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/459.m3u8|user-agent=S11elW/2.57
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS", Nat Geo 6
+#EXTINF:-1 group-title="CANALES VARIADOS", National Geographic 6
 http://181.78.18.23:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", Nat Geo
 http://208.88.246.11:4481/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 group-title="CANALES VARIADOS", Nat Geo 6
+#EXTINF:-1 group-title="CANALES VARIADOS", National Geographic 6
 http://45.160.15.130:2909/play/027
 
 #EXTINF:-1 group-title="Lista 21 Honduras", Nat Geo Mundo
