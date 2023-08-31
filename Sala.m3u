@@ -39,20 +39,8 @@ http://45.160.15.130:2909/play/024
 http://45.166.92.22:58001/play/a015/index.m3u8
 
 #EXTINF:-1 group-title="Lista 12", HGTV 
-https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
-#EXTINF:-1 group-title="Lista 12", HGTV1
 http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/519.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 group-title="Lista 12", HGTV2
-http://208.88.246.11:4481/transcob9/9461HGTV/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Lista 12", HGTV3
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/699.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="Lista 12", HGTV4 int
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/88445.m3u8
-#EXTINF:-1 group-title="Lista 12", HGTV5
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1487.m3u8
-#EXTINF:-1 group-title="Lista 12", HGTV6
-https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
-#EXTINF:-1 group-title="Lista 12", HGTV7
+
 
 
 #EXTINF:-1 id=""  group-title="Lista 8", EL GOURMET
@@ -94,6 +82,13 @@ http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", HBO 2
 http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", HISTORY 2 izzi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=oiuiououoiuoiuoiuiouio
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
 #EXTINF:-1 group-title="Otros Canales", Canal 6
@@ -101,6 +96,13 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
 #EXTINF:-1 group-title="Lista 21 Honduras", History izzi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=oiuiououoiuoiuoiuiouio
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 #EXTINF:-1 group-title="CANALES VARIADOS", History Channel
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/458.m3u8|user-agent=S11elW/2.57
@@ -114,19 +116,20 @@ http://45.160.15.130:2909/play/033
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/598.m3u8|user-agent=S11elW/2.57
 #EXTINF:-1 group-title="CANALES VARIADOS", NatGeo1
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/459.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="CANALES VARIADOS", NatGeo2
-https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS", NatGeo3
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NATGEO_HD)/manifest.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS", NatGeo4
-https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS", NatGeo5
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
+
+
 #EXTINF:-1 group-title="CANALES VARIADOS", NatGeo6
 http://181.78.18.23:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", NatGeo7
 http://208.88.246.11:4481/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 group-title="CANALES VARIADOS", NatGeo8 izzi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=oiuiououoiuoiuoiuiouio
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTINF:-1 group-title="CANALES VARIADOS", NatGeo9 srregio
 http://45.160.15.130:2909/play/027
