@@ -26,21 +26,106 @@ http://45.160.15.130:2909/play/112
 
 #EXTINF:-1 group-title="Lista 21 Honduras", DHE HD
 http://45.166.92.22:58001/play/a00v/index.m3u8
+
 #EXTINF:-1 group-title="Lista 21 Honduras", DISCOVERY THEATER HD
 http://45.166.92.22:58001/play/a014/index.m3u8
-
-#EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY THEATER HD1
+#EXTINF:-1 id=""  group-title="Lista 8", DISCOVERY THEATER
 http://209.126.119.148:20102/freemxhd/FPTnopuJX/5D5293/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 
-#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL A
 http://45.160.15.130:2909/play/024
 
-#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Home & Health
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL B
+http://208.88.246.11:4481/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL C
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/92.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL D
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/608.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL E
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16534.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL F
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3313.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL G
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30321.m3u8
+
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL GG
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38488.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL H
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93947.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL I
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93948.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL J
+https://v3.playerlatino.live/stream/m3u8/22|user-agent=Lavf/57.71.101
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL K
+https://v3.playerlatino.live/stream/m3u8/741|user-agent=Lavf/57.71.101
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CONOCIMIENTO", DISCOVERY CHANNEL L
+https://v3.playerlatino.live/stream/m3u8/639|user-agent=Lavf/57.71.101
+#EXTINF:-1 id=""  group-title="Lista 8",  DISCOVERY CHANNEL M 
+http://45.228.234.77:4430/play/discoverychannel
+
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Familia
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/56.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Discovery Familia SD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1997.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Discovery Familia
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/93806.m3u8
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png"  group-title="CONOCIMIENTO", Discovery En Español
+http://208.88.246.11:4481/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Discovery en Espanol 1
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/44337.m3u8
+
+
+#EXTINF:-1 group-title="Lista 21 Honduras", Discovery Home & Health A
 http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Discovery_H&H.png", Discovery Home & Health B
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb 
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Discovery_H&H.png", Discovery Home & Health C
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d6be15405ba3ce7b06b240b6b9cfcde:dca9f758abd501c3850dd0ad9ab502ae 
+https://1075-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health D
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/603.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health E
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16532.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health H
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38469.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health I
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30322.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health J
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37994.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health K
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3314.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health L
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34308.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health M
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/61209.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery Home & Health N
+https://v3.playerlatino.live/stream/m3u8/24|user-agent=Lavf/57.71.101
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery Home & Health O
+https://v3.playerlatino.live/stream/m3u8/742|user-agent=Lavf/57.71.101
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CONOCIMIENTO", Discovery Home & Health P
+https://v3.playerlatino.live/stream/m3u8/640|user-agent=Lavf/57.71.101
+
+
 
 #EXTINF:-1 group-title="Lista 12", HGTV 
 http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/519.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/HGTV.png" group-title="CONOCIMIENTO", HGTV 2 
+https://v3.playerlatino.live/stream/m3u8/23|user-agent=Lavf/57.71.101
 
 
 #EXTINF:-1 id=""  group-title="Lista 8", EL GOURMET
@@ -49,21 +134,10 @@ http://45.160.15.130:2909/play/177
 http://45.160.15.130:2909/play/207
 #EXTINF:-1 group-title="Lista 21 Honduras", Discovery World HD
 http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1 id=""  group-title="Lista 8", MAS CHIC 
-https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
-
-#EXTINF:-1 group-title="Lista 21 Honduras", ESPN 2
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", ESPN 3
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", ESPN
-http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 id=""  group-title="Lista 8", Mas Chic
+http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/696.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 
 
-
-
-#EXTINF:-1 group-title="Lista 21 Honduras", FOX SPORTS 3 HD
-http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", FX
 http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", SONY MOVIES
@@ -81,35 +155,53 @@ http://45.166.92.22:58001/play/a03u/index.m3u8
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", HBO 2
 http://45.166.92.22:58001/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Lista 21 Honduras", HISTORY 2 izzi
+
+#EXTINF:-1 group-title="Lista 21 Honduras", History
+http://208.88.246.11:4481/andromeda/GOLDENPRE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="TV5", History  srregio
+http://45.160.15.130:2909/play/032
+#EXTINF:-1 group-title="TV5", History A 
+http://208.88.246.11:4481/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="TV5", History B
+http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/660.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 group-title="TV5", History C
+#EXTINF:-1 group-title="TV5", History D
+http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/662.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 group-title="TV5", History E
+http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/665.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 group-title="TV5", History F
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/604.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 group-title="TV5", History F
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/458.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 group-title="TV5", History G
+https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YYt1LTPD5EQgIZtcGLD3SA","kid":"FJw3HfJ6VqGIBScgQTgVkg"}],"type":"temporary"}
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=oiuiououoiuoiuoiuiouio
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+
+
 
 #EXTINF:-1 group-title="Otros Canales", Canal 6
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
-#EXTINF:-1 group-title="Lista 21 Honduras", History izzi
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=oiuiououoiuoiuoiuiouio
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS", History Channel
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/458.m3u8|user-agent=S11elW/2.57
-#EXTINF:-1 group-title="TV5", 032 History Channel HD srre
-http://45.160.15.130:2909/play/032
-#EXTINF:-1 group-title="TV5", 033 History 2 HD srre
+
+
+
+#EXTINF:-1 group-title="TV5", History 2 srre
 http://45.160.15.130:2909/play/033
+#EXTINF:-1 group-title="TV5", History 2 A
+http://208.88.246.11:4481/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="TV5", History 2 B
+http://nffthex0kzt.xyz/rk/GhddggxzwegwhxbjgwthfdeghvxwsfgggcGA/Vvcxdwghdgjhddvgdxxswrthbcbgfdgggdfchg/666.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 group-title="TV5", History 2 C
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/173.m3u8|user-agent=S11elW/2.57
+#EXTINF:-1 group-title="TV5", History 2 D
+
 
 
 #EXTINF:-1 group-title="Lista 21 Honduras", National Geographic
@@ -122,16 +214,8 @@ http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/459.m3u8|user-agent=S11elW/
 http://181.78.18.23:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", NatGeo7
 http://208.88.246.11:4481/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="CANALES VARIADOS", NatGeo8 izzi
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=oiuiououoiuoiuoiuiouio
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
-#EXTINF:-1 group-title="CANALES VARIADOS", NatGeo9 srregio
+
+#EXTINF:-1 group-title="CANALES VARIADOS", National Geographic Channel
 http://45.160.15.130:2909/play/027
 
 #EXTINF:-1 group-title="Lista 21 Honduras", NatGeo Mundo
@@ -149,18 +233,16 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", STAR CHANNEL
 http://45.160.15.130:2909/play/083
 
-#EXTINF:-1 group-title="TV5", 093 FX HD
+#EXTINF:-1 group-title="TV5", FX HD
 http://45.160.15.130:2909/play/093
 
-#EXTINF:-1 group-title="TV5", 116 I-Sat V+
+#EXTINF:-1 group-title="TV5", I-Sat
 http://45.160.15.130:2909/play/116
 
 #EXTINF:-1 group-title="Lista 21 Honduras", Studio Universal
 http://45.160.15.130:2909/play/098
-#EXTINF:-1 group-title="Lista 21 Honduras", TCM
-http://45.160.15.130:2909/play/110
-#EXTINF:-1 group-title="Lista 21 Honduras", TELEMUNDO
-http://45.160.15.130:2909/play/149
+
+
 #EXTINF:-1 group-title="Lista 21 Honduras", TLC
 http://45.166.92.22:58001/play/a04o/index.m3u8
 #EXTINF:-1 group-title="Lista 21 Honduras", TNT
