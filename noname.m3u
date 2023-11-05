@@ -245,7 +245,7 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/16553.m3u8|user-agent=BrzLRz
 #EXTINF:-1, FX SD  (p)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3102.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-shift="-3" group-title="CANALES VARIADOS 2",FX HD6
-http://live.reystream.us:8080/xa6br3yg3avqf/lZNauBqtaG/261|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
+http://live.reystream.us:8080/xa6br3yg3avqf/lZNauBqtaG/261|user-agent=vsaClient/
 #EXTINF:-1 tvg-shift="-3" group-title="CANALES VARIADOS 2",FX LQ2
 http://live.reystream.us:8080/xa6br3yg3avqf/lZNauBqtaG/89072|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
 
