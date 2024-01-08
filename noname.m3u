@@ -1,14 +1,14 @@
 #EXTM3U 
 url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTINF:-1, ADULT SWIM.
+#EXTINF:-1, ADULT SWIM INGLES
 https://vivo.lamtv.tv:8081/a/0107/playlist.m3u8|user-agent=EEEEE
 
 #EXTINF:-1, ADULT SWIM..
 http://138.59.177.34:8000/play/a029/index.m3u8
-#EXTINF:-1, ADULT SWIM... 
+#EXTINF:-1, ADULT SWIM 
 http://208.88.246.11:5473/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, ADULT SWIM.... 
+#EXTINF:-1, ADULT SWIM 
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/19676.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1, A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
