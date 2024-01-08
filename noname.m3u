@@ -526,10 +526,10 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/53166.m3u8|user-agent=BrzLRz
 http://208.88.246.11:5473/9445NATG/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS", TVE
+#EXTINF:-1, TVE
 https://vivo.lamtv.tv:8081/a/0467/playlist.m3u8|user-agent=EEEEE
 
-#EXTINF:-1 group-title="CANALES VARIADOS", TVE
+#EXTINF:-1, TVE
 http://138.59.177.34:8000/play/a06t/index.m3u8
 
 #EXTINF:-1, Outdoor Channel
