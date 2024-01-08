@@ -83,18 +83,18 @@ http://208.88.246.11:5473/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/16534.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1, Discovery Channel A3
+#EXTINF:-1, Discovery Channel B
 http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1, Discovery Channel A4 1
+#EXTINF:-1, Discovery Channel A
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/93947.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 
 
 
-#EXTINF:-1, Discovery Channel A4 2
+#EXTINF:-1, Discovery Channel B
 http://138.59.177.34:8000/play/a054/index.m3u8
-#EXTINF:-1, Discovery Channel A4 3
+#EXTINF:-1, Discovery Channel B
 http://138.59.177.34:8000/play/a077/index.m3u8
 
 
@@ -299,7 +299,7 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3326.m3u8|user-agent=BrzLRzQ
 #EXTINF:-1, HBO Zone
 https://vivo.lamtv.tv:8081/a/0395/playlist.m3u8|user-agent=EEEEE
 
-#EXTINF:-1, HBO 21
+#EXTINF:-1, HBO 2
 http://45.166.92.22:58001/play/a03t/index.m3u8
 
 
@@ -393,35 +393,35 @@ http://208.88.246.11:5473/transcob9/9461HGTV/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1, History
 http://208.88.246.11:5473/9491HIST/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, HISTORY 2 A1
+#EXTINF:-1, HISTORY 2 A
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1, HISTORY 2 A2
+#EXTINF:-1, HISTORY 2 B
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37978.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, History 2 A1
+#EXTINF:-1, History 2 A
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38467.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1, HISTORY 2 A1
+#EXTINF:-1, HISTORY 2 A
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1, History 2 A2
+#EXTINF:-1, History 2 B
 http://208.88.246.11:5473/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, HISTORY 2 A2
+#EXTINF:-1, HISTORY 2 B
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37978.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, HISTORY 2 A1
+#EXTINF:-1, HISTORY 2 A
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38467.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, HISTORY 2 A1
+#EXTINF:-1, HISTORY 2 A
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3118.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, HISTORY 2 A2
+#EXTINF:-1, HISTORY 2 B
 https://vivo.lamtv.tv:8081/a/0070/playlist.m3u8|user-agent=EEEEE
-#EXTINF:-1, HISTORY 2 A1
+#EXTINF:-1, HISTORY 2 A
 http://138.59.177.34:8000/play/a042/index.m3u8
-#EXTINF:-1, HISTORY 2 A2
+#EXTINF:-1, HISTORY 2 B
 https://vivo.lamtv.tv:8081/a/0070/playlist.m3u8|user-agent=EEEEE
 
 
-#EXTINF:-1, History Channel E
+#EXTINF:-1, History Channel B
 http://45.166.92.22:58001/play/a038/index.m3u8
 
 #EXTINF:-1, History Channel A
@@ -440,9 +440,9 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/16565.m3u8|user-agent=BrzLRz
 https://vivo.lamtv.tv:8081/a/0397/playlist.m3u8|user-agent=EEEEE
 #EXTINF:-1, History Channel A
 https://vivo.lamtv.tv:8081/a/0178/playlist.m3u8|user-agent=EEEEE
-#EXTINF:-1, History Channel E
+#EXTINF:-1, History Channel B
 http://138.59.177.34:8000/play/a056/index.m3u8
-#EXTINF:-1, History Channel E
+#EXTINF:-1, History Channel B
 http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-1, History Channel A
 https://vivo.lamtv.tv:8081/a/0178/playlist.m3u8|user-agent=EEEEE
@@ -475,21 +475,23 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1, Nat Geo 1
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3122.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, Nat Geo 1 A
+#EXTINF:-1, Nat Geo 1AA
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38486.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, Nat Geo 1 B
+#EXTINF:-1, Nat Geo..
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91976.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, NAT GEO 1.
+#EXTINF:-1, NAT GEO.
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30361.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1, NAT GEO 3
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91979.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1, Nat Geo 3
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91979.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1, Nat Geo USA
 http://208.88.246.11:5473/transco9/9429NTGEO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, Nat Geo 4
+#EXTINF:-1, Nat Geo.
 http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
@@ -500,28 +502,27 @@ http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/53166.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
-#EXTINF:-1, Nat Geo 1 A
+#EXTINF:-1, Nat Geo 1 AAA
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91976.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, Nat Geo 1 A
+#EXTINF:-1, Nat Geo 1 AAAA
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30361.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, Nat Geo 1 A
+#EXTINF:-1, Nat Geo 1 AAAAA
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/16575.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, Nat Geo 1 A
+#EXTINF:-1, Nat Geo 1 AAAAAA
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3122.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, Nat Geo O
+#EXTINF:-1, Nat Geo.
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91983.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, Nat Geo H
+#EXTINF:-1, Nat Geo 1
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91984.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1, Nat Geo J
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/91979.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 
-#EXTINF:-1, Nat Geo M
+
+#EXTINF:-1, Nat Geo.
 http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1, Nat Geo USA
