@@ -1,22 +1,285 @@
-#EXTM3U
-#EXTINF:-1, Outdoor Channel HD
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/904|user-agent=R3dHard3.1XzY
-#EXTINF:-1, The Sportsman Channel HD
-http://208.88.246.11:3473/9483SPMAN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1, World Fishing Network 
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/903|user-agent=R3dHard3.1XzY
 
-#EXTINF:-1, NBC Universo 
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/606|user-agent=R3dHard3.1XzY
-#EXTINF:-1, HITN 
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/376|user-agent=R3dHard3.1XzY
-#EXTINF:-1, Discovery Velocity
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/401|user-agent=R3dHard3.1XzY
-#EXTINF:-1, HGTV
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/699|user-agent=R3dHard3.1XzY
-#EXTINF:-1, Natgeo Mundo 
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/597|user-agent=R3dHard3.1XzY 
-#EXTINF:-1, Discovery Familia
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/56|user-agent=R3dHard3.1XzY
-#EXTINF:-1, Discovery Turbo
-http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/76|user-agent=R3dHard3.1XzY
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY HOME AND HEALTH
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY ID
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY KIDS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY SCIENCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY THEATER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY TURBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",DISCOVERY WORLD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",US DISCOVERY FAMILIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",FX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/148
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",ADULT SWIM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
+#EXTINF:-1 group-title="Bics Extra US",US|FU|DSCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/324
+#EXTINF:-1 group-title="Bics Extra US",US|FU|SPMNHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/339
+#EXTINF:-1 group-title="Bics Extra US",US|FU|DFCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/343
+#EXTINF:-1 group-title="Bics Extra US",US|FU|OUTHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/346
+#EXTINF:-1 group-title="Bics Extra US",US|FU|COOKINGCHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/378
+#EXTINF:-1 group-title="Bics Extra US",US|FU|DSCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/383
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",HISTORY 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/154
+#EXTINF:-1 group-title="Bics Extra US",US History
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/448
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",HISTORY EN ESPAÃ‘OL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
+#EXTINF:-1 group-title="Bics Extra US",US NATGEO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/490
+#EXTINF:-1 group-title="Bics Extra US",US NATIONAL GEOGRAPHIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/491
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",NATIONAL GEOGRAPHIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/492
+#EXTINF:-1 group-title="Bics Extra US",US HBO LATINO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/510
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Science
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+#EXTINF:-1 group-title="Bics Extra INFINITV",El Gourmet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+#EXTINF:-1  tvg-logo="https://puddintap.click/ico/USA-Color/DISCOVERY.png" group-title="Bics Extra US", BASICS: DISCOVERY CHANNEL
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/317
+#EXTINF:-1  tvg-logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" group-title="Bics Extra US", BASICS: DISCOVERY FAMILY
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/318
+#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/DISCOVERYLIFE.png" group-title="Bics Extra US", BASICS: DISCOVERY LIFE
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/320
+#EXTINF:-1  tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/Science.us.png" group-title="Bics Extra US", BASICS: DISCOVERY SCIENCE
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649291
+#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/NATGEO.png" group-title="Bics Extra US", BASICS: NAT GEO
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/363
+#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/outdoor.png" group-title="Bics Extra US", BASICS: OUTDOOR CHANNEL
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/371
+#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/pursuit.png" group-title="Bics Extra US", BASICS: PURSUIT CHANNEL
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/380
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com//logo/tv/ss/sportsman-channel-us.png" group-title="Bics Extra US", BASICS: SPORTSMAN
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/738065
+#EXTINF:-1 group-title="Bics Extra US",US|FU|WFNUSHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/412
+
+
+#EXTINF:-1 group-title="CONOCIMIENTO",US NATGEO MUNDO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/453
+#EXTINF:-1 group-title="USA",NatGeo Mundo Lat HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158865|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="USA",Outdoor Channel
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1702|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="DEPORTES",  OUTDOOR CHANNEL
+https://vivo.lamtv.tv:8081/a/0433/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1 group-title="INTERNACIONAL",US OUTDOOR HD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/29325
+#EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel USA" tvg-logo="usaflag.png"  group-title="USA", Sportsman Channel USA
+http://208.88.246.11:5473/9483SPMAN/transcob9/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel USA" tvg-logo="usaflag.png"  group-title="USA", Outdoor Channel USA
+http://208.88.246.11:5473/9619OTDCH/transcob9/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="TheSportsmanChannel.us" tvg-name="Sportsman Channel USA" tvg-logo="usaflag.png"  group-title="USA", Sportsman Channel USA
+http://208.88.246.11:5473/9483SPMAN/transcob9/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel USA" tvg-logo="usaflag.png"  group-title="USA", Outdoor Channel USA
+http://208.88.246.11:5473/9619OTDCH/transcob9/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español USA" tvg-logo="disc.png"  group-title="USA", Discovery En Español USA
+http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY SCIENCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY THEATER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY TURBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY WORLD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
+#EXTINF:-1 group-title="CONOCIMIENTO",US DISCOVERY EN ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
+#EXTINF:-1 group-title="ENTRETENIMIENTO",US DISCOVERY FAMILIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY CHANNEL SD (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/30321|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="USA",Discovery Familia (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/128636|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY LQ
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/16534|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery Science SD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1482|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY THEATER SD (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/128638|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY THEATRER HD (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/128637|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery Turbo
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1494|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY TURBO SD (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/12208|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY WORLD HD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/30326|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery World HD (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/3309|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY WORLD LQ
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/16538|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY WORLD SD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/34389|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="USA",Discovery (US) (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/128633|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel
+http://131.161.53.2:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel HD
+http://131.161.53.2:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Science
+http://131.161.53.2:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Turbo
+http://131.161.53.2:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery World HD
+http://131.161.53.2:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY SCIENCE
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/57.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY THEATER
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/153.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY TURBO
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/62.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY WORLD
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/154.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY CH
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/152.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1  group-title="CONOCIMIENTO",  DISCOVERY CHANNEL
+https://vivo.lamtv.tv:8081/a/0159/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="CONOCIMIENTO",  DISCOVERY SCIENCE
+https://vivo.lamtv.tv:8081/a/0043/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="CONOCIMIENTO",  DISCOVERY THEATER
+https://vivo.lamtv.tv:8081/a/0044/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="ENTRETENIMIENTO",  TLC
+https://vivo.lamtv.tv:8081/a/0160/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="CONOCIMIENTO",  DISCOVERY TURBO
+https://vivo.lamtv.tv:8081/a/0161/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="CONOCIMIENTO",  DISCOVERY WORLD
+https://vivo.lamtv.tv:8081/a/0045/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1 group-title="USA",Discovery Science | US (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1915|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="CONOCIMIENTO",  DISCOVERY CHANNEL
+https://vivo.lamtv.tv:8081/a/0158/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="CONOCIMIENTO",  H2
+https://vivo.lamtv.tv:8081/a/0070/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="USA",  DISCOVERY CHANNEL
+https://vivo.lamtv.tv:8081/a/0334/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="USA",  DISCOVERY LIFE
+https://vivo.lamtv.tv:8081/a/0339/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="USA",  DISCOVERY SCIENCE
+https://vivo.lamtv.tv:8081/a/0340/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="USA",  HISTORY CHANNEL
+https://vivo.lamtv.tv:8081/a/0397/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="USA",  NATGEO
+https://vivo.lamtv.tv:8081/a/0410/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY CHANNEL
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/20
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY CHANNEL HD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/243
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY CHANNEL LQ
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89092
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY TURBO HD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/38296
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY WORLD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/27
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY WORLD HD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/8422
+#EXTINF:-1 group-title="CONOCIMIENTO", DISCOVERY WORLD LQ
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89105
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY THEATER
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/25
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY THEATER HD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/8421
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY TURBO
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/26
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY TURBO LQ
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/155453
+#EXTINF:-1 group-title="INTERNACIONAL",US DISCOVERY CHANNEL
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/34411
+#EXTINF:-1 group-title="INTERNACIONAL",US DISCOVERY FAMILIA
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/97
+#EXTINF:-1 group-title="USA",USA DISCOVERY EN ESPANOL
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/132
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery
+http://208.88.246.11:5473/402discoverychannel/transco8/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png"  group-title="CONOCIMIENTO", Discovery Theater HD
+http://208.88.246.11:5473/andromeda/DISCOVERYTH/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png"  group-title="CONOCIMIENTO", Discovery World HD
+http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png"  group-title="CONOCIMIENTO", Discovery Turbo
+http://208.88.246.11:5473/345turbo/transco7/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_254-400x360.png"  group-title="CONOCIMIENTO", National Geographic
+http://208.88.246.11:5473/405Natgeo/transco8/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History HD
+http://208.88.246.11:5473/andromeda/GOLDENPRE/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HCLM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png"  group-title="CONOCIMIENTO", History LAMX
+http://208.88.246.11:5473/409history/transco8/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png"  group-title="CONOCIMIENTO", History 2
+http://208.88.246.11:5473/413H2/transco8/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1073911-8c.png"  group-title="ENTRETENIMIENTO", El Gourmet
+http://208.88.246.11:5473/evento5/bodega/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" tvg-name="Discovery En Español" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png"  group-title="CONOCIMIENTO", Discovery En Español
+http://208.88.246.11:5473/transco9/9535DISCOVERYESP/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="USA",US | SPORTSMAN CHANNEL
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/16629|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="INTERNACIONAL",US SPORTSMAN CHANNEL
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/64214
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159189|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV LQ (p)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/128621|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV SD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1487|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History 2 HD Latino (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158862|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY 2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/30352|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History 2 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159370|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History 2 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159369|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY 2 LQ
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/16564|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History 2 SD =
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/3118|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159368|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History Channel FHD Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158861|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY HD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/30353|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",History HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159367|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY LQ
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/16565|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="ENTRETENIMIENTO",  HGTV
+https://vivo.lamtv.tv:8081/a/0079/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1  group-title="CONOCIMIENTO",  HISTORY
+https://vivo.lamtv.tv:8081/a/0178/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HGTV
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/20370
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HGTV HD
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/51616
+#EXTINF:-1 group-title="ENTRETENIMIENTO", HGTV LQ
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89710
+
+
